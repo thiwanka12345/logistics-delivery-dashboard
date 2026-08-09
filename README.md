@@ -28,3 +28,4 @@ This application tracks **62,000+ shipments** across multiple regions, warehouse
 - **Data Visualization:** Plotly Express
 
 ---
+🌐 Live Interactive App: https://logistics-delivery-dashboard-4vj9ma2d89su596o2xo9wy.streamlit.app/
